@@ -88,7 +88,7 @@ def action(msg):
 
 # 填寫當初設定 Telegram Bot 的 token
 ''' start of you code '''
-telegram_bot = telepot.Bot('6833994098:AAGnsxM65zEu9fGrPd-JU1ua1-A1nBFYMao')
+telegram_bot = telepot.Bot('xxxxxxxx')
 ''' end of you code '''
 
 print(telegram_bot.getMe())
